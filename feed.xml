@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/gitblog</id><title>RSS feed of imjuya's gitblog</title><updated>2025-08-01T10:59:36.701340+00:00</updated><link href="https://github.com/imjuya/gitblog"/><link href="https://raw.githubusercontent.com/imjuya/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/imjuya/gitblog/issues/3</id><title>test2</title><updated>2025-08-01T10:59:36.955772+00:00</updated><content type="html"><![CDATA[<h1>橘鸦 AI 早报 2025-08-01</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/gitblog</id><title>RSS feed of imjuya's gitblog</title><updated>2025-08-01T11:42:06.007616+00:00</updated><link href="https://github.com/imjuya/gitblog"/><link href="https://raw.githubusercontent.com/imjuya/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/imjuya/gitblog/issues/3</id><title>test2</title><updated>2025-08-01T11:42:06.267079+00:00</updated><content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/jrPBacZ9mss?si=0wdMXufYpd3m0mVL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h1>橘鸦 AI 早报 2025-08-01</h1>
 <h2>概览</h2>
 <ul>
 <li>阶跃星辰正式开源321B多模态模型Step3</li>
@@ -117,6 +118,6 @@ https://huggingface.co/CohereLabs/command-a-vision-07-2025
 <td align="left"><strong>0.75美元</strong></td>
 </tr>
 </tbody></table><p>此外，有消息称<code>Veo 3 Fast</code>可能很快也会登陆**Google</p>
-]]></content><link href="https://github.com/imjuya/gitblog/issues/3"/><category term="THINGS"/><published>2025-08-01T10:34:19+00:00</published></entry><entry><id>https://github.com/imjuya/gitblog/issues/2</id><title>test</title><updated>2025-08-01T10:59:37.073334+00:00</updated><content type="html"><![CDATA[<p>test</p>
+]]></content><link href="https://github.com/imjuya/gitblog/issues/3"/><category term="THINGS"/><published>2025-08-01T10:34:19+00:00</published></entry><entry><id>https://github.com/imjuya/gitblog/issues/2</id><title>test</title><updated>2025-08-01T11:42:06.415778+00:00</updated><content type="html"><![CDATA[<p>test</p>
 <p><img src="https://github.com/user-attachments/assets/91c9e004-f487-4686-8a14-c243a12e6872" alt="Image" /></p>
 ]]></content><link href="https://github.com/imjuya/gitblog/issues/2"/><published>2025-07-27T10:03:07+00:00</published></entry></feed>

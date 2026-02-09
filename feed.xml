@@ -1,5 +1,78 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/gitblog</id><title>RSS feed of imjuya's gitblog</title><updated>2025-08-01T12:13:26.834180+00:00</updated><link href="https://github.com/imjuya/gitblog"/><link href="https://raw.githubusercontent.com/imjuya/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/imjuya/gitblog/issues/3</id><title>test2</title><updated>2025-08-01T12:13:27.134411+00:00</updated><content type="html"><![CDATA[<video width="560" height="315" controls>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/gitblog</id><title>RSS feed of imjuya's gitblog</title><updated>2026-02-09T03:59:47.112237+00:00</updated><link href="https://github.com/imjuya/gitblog"/><link href="https://raw.githubusercontent.com/imjuya/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/imjuya/gitblog/issues/4</id><title>Qwen 3.5系列模型即将发布【AI 早报 2026-02-09】</title><updated>2026-02-09T03:59:47.421942+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260209/20260209084949647072fdba_cover_95db.jpg" alt="" /></p>
+<h1>AI 早报 2026-02-09</h1>
+<h2>概览</h2>
+<h3>精选</h3>
+<ul>
+<li>Qwen 3.5系列模型即将发布 <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>xAI上线Grok Imagine Image Pro 模型 API <code>#2</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>CodeBuddy团队发布AI桌面工作台WorkBuddy <code>#3</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>字节即将推出Seedream 5.0预览版 <code>#4</code></li>
+<li>Meta AI 已在官网测试最新模型 Avocado <code>#5</code></li>
+</ul>
+<hr />
+<h2>Qwen 3.5系列模型即将发布 <code>#1</code></h2>
+<blockquote>
+<p><strong>千问团队</strong>正在推进 <strong>Qwen 3.5</strong> 系列模型的发布，其已向 <code>Transformers</code> 代码库提交相关支持 <code>PR</code>。该系列模型采用混合架构，结合 <code>Gated DeltaNet</code> 与混合注意力机制，原生支持多模态输入。</p>
+</blockquote>
+<p>千问团队正在推进 <strong>Qwen 3.5</strong> 系列模型的发布，其 <strong>已向 Hugging Face Transformers 代码库提交相关支持 PR</strong>。该系列采用混合架构，结合 <code>Gated DeltaNet</code> 与 <code>混合注意力机制</code>，原生支持文本、图像及视频处理。代码 PR 确认了至少两个版本的模型存在：<code>Qwen3.5-9B-Instruct</code> 和 <code>Qwen3.5-35B-A3B-Instruct</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/95db0821-8e25-40a2-8645-bfffdc0798d4/24a0f928-1269-40e2-9c2e-055d3b21daa1/m001.png" alt="" /></p>
+<pre><code>https://github.com/huggingface/transformers/pull/43830/
+</code></pre>
+<hr />
+<h2>xAI上线Grok Imagine Image Pro 模型 API <code>#2</code></h2>
+<blockquote>
+<p>xAI 近日正式宣布推出名为 <strong>Grok Imagine Image Pro</strong> 与 <strong>Grok Imagine</strong> 的图像生成模型，支持文本生图、图像编辑、风格迁移及批量生成。用户可通过 API 调用这两款模型。</p>
+</blockquote>
+<p>xAI 正式宣布推出名为 <strong>Grok Imagine Image Pro</strong> 与 <strong>Grok Imagine Image</strong> 的两款图像生成模型。模型支持 <strong>文本生成</strong>、<strong>自然语言编辑</strong>、<strong>多轮迭代</strong>、<strong>风格迁移</strong> 以及 <strong>批量生成</strong>，用户可通过 <code>API</code> 访问。<code>API</code> 调用定价为 <strong>Pro 版 $0.07/图</strong>，<strong>标准版 $0.02/图</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/95db0821-8e25-40a2-8645-bfffdc0798d4/80399f4c-0d03-4bbf-8f50-9a1de16e9ba5/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/95db0821-8e25-40a2-8645-bfffdc0798d4/80399f4c-0d03-4bbf-8f50-9a1de16e9ba5/m002.png" alt="" /></p>
+<pre><code>https://docs.x.ai/developers/model-capabilities/images/generation
+https://x.com/xai/status/2020313728802242673
+</code></pre>
+<hr />
+<h2>CodeBuddy团队发布AI桌面工作台WorkBuddy <code>#3</code></h2>
+<blockquote>
+<p><strong>腾讯云CodeBuddy团队</strong>发布<code>WorkBuddy</code>，支持自然语言指令执行多模态任务。产品已开放内测，适用于文件处理、PPT生成、海报设计、知识库构建等场景。</p>
+</blockquote>
+<p><strong>腾讯云 CodeBuddy</strong> 团队近日发布了 <code>WorkBuddy</code>，一款定位为全场景职场 AI 智能体的桌面工作台，目前已开放内测申请。该产品支持通过自然语言下达任务，可在本地电脑自主规划并执行多模态复杂任务，核心功能包括对经授权的本地文件进行批量处理、生成文档/表格/PPT、开展数据分析及行业调研。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/95db0821-8e25-40a2-8645-bfffdc0798d4/31b0c065-fbc6-424d-b846-cf0b6c9b6e01/m001.png" alt="" /></p>
+<pre><code>https://mp.weixin.qq.com/s/jepj-IFv3UR9LpZlt-h82w
+https://www.codebuddy.cn/work
+</code></pre>
+<hr />
+<h2>字节即将推出Seedream 5.0预览版 <code>#4</code></h2>
+<blockquote>
+<p>字节即将推出 <strong>Seedream 5.0</strong> 预览版，相关文档已发布，该模型支持联网检索、精准编辑与智能推理，首发 <code>2k</code>/<code>4k</code> 高清生图且限时免费。</p>
+</blockquote>
+<p><strong>字节跳动</strong>的图像生成模型 <code>Seedream（即梦）</code> 即将推出 <code>5.0-Preview</code> 版本，提供<strong>联网实时检索</strong>、<strong>编辑精准可控</strong>及<strong>智能逻辑推理</strong>三大核心功能，并首发<strong>限免2k与4k清晰度</strong>。但官方文档称该预览版在真实感与美感上存在效果劣化，建议对生成效果有严苛需求的用户使用 <code>4.5</code> 版本或等待<strong>年后</strong>发布的 <code>5.0</code> 正式版。</p>
+<p><code>5.0-Preview</code> 首次支持<strong>检索生图</strong>功能，旨在将创作与热门资讯深度融合。检索开关为条件性触发，时效词或长尾词可高概率激活。在<strong>编辑精准可控</strong>方面，新版本提升了生成图像与输入文本的契合度。<strong>智能逻辑推理</strong>功能则涵盖复杂逻辑推演、物理世界知识与垂类行业知识。模型不仅能对花朵按品种分类构图，还能理解物理规律和参考 <code>CAD</code> 设计图生成真实建筑。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260209/20260209082129_6a016a2537.png" alt="" /></p>
+<pre><code>https://bytedance.larkoffice.com/wiki/TQyJwfRFiiVMUdkFY84cCb7CncI
+</code></pre>
+<hr />
+<h2>Meta AI 已在官网测试最新模型 Avocado <code>#5</code></h2>
+<blockquote>
+<p>有用户发现，<strong>Meta AI</strong> 更新了其网站与移动应用，正在测试包括新模型 <code>Avocado</code> 在内的多项功能与集成。</p>
+</blockquote>
+<p>Meta AI 更新了其网站与移动应用，并正在测试包括新模型 <code>Avocado</code> 在内的多项功能与集成。Meta 的内部测试模式包括 <code>Avocado</code>、<code>Avocado Thinking</code> 和代表 browser agent 的 <code>Sierra</code> 模型。<code>Avocado</code> 是继 <code>Llama 4</code> 之后 Meta 准备发布的模型的代号。另一个内部概念为“Big Brain”，其思路是让多个模型 agents 并行运行，并从中选择最佳输出作为最终响应。</p>
+<p>目前，<code>Avocado</code>、voice agent、<code>browser agent</code>（<code>Sierra</code>）和“Tasks”等模型和功能尚在测试或开发中，尚未完成最终部署。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/95db0821-8e25-40a2-8645-bfffdc0798d4/7b128843-d679-4af6-826d-5c2ab7936564/m001.gif" alt="" /></p>
+<pre><code>https://www.testingcatalog.com/meta-ai-redies-avacado-manus-agent-and-openclaw-integration/
+</code></pre>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+<p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
+]]></content><link href="https://github.com/imjuya/gitblog/issues/4"/><published>2026-02-09T03:59:29+00:00</published></entry><entry><id>https://github.com/imjuya/gitblog/issues/3</id><title>test2</title><updated>2026-02-09T03:59:47.570299+00:00</updated><content type="html"><![CDATA[<video width="560" height="315" controls>
     <source src="https://www.example.com/video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
@@ -121,6 +194,6 @@ https://huggingface.co/CohereLabs/command-a-vision-07-2025
 <td align="left"><strong>0.75美元</strong></td>
 </tr>
 </tbody></table><p>此外，有消息称<code>Veo 3 Fast</code>可能很快也会登陆**Google</p>
-]]></content><link href="https://github.com/imjuya/gitblog/issues/3"/><category term="THINGS"/><published>2025-08-01T10:34:19+00:00</published></entry><entry><id>https://github.com/imjuya/gitblog/issues/2</id><title>test</title><updated>2025-08-01T12:13:27.258510+00:00</updated><content type="html"><![CDATA[<p>test</p>
+]]></content><link href="https://github.com/imjuya/gitblog/issues/3"/><category term="THINGS"/><published>2025-08-01T10:34:19+00:00</published></entry><entry><id>https://github.com/imjuya/gitblog/issues/2</id><title>test</title><updated>2026-02-09T03:59:47.726763+00:00</updated><content type="html"><![CDATA[<p>test</p>
 <p><img src="https://github.com/user-attachments/assets/91c9e004-f487-4686-8a14-c243a12e6872" alt="Image" /></p>
 ]]></content><link href="https://github.com/imjuya/gitblog/issues/2"/><published>2025-07-27T10:03:07+00:00</published></entry></feed>

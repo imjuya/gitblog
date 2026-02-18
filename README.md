@@ -5,6 +5,7 @@
 [RSS Feed](https://raw.githubusercontent.com/imjuya/gitblog/master/feed.xml)
 
 ## 最近更新
+- [2026-02-18](https://github.com/imjuya/gitblog/issues/5)--2026-02-18
 - [Qwen 3.5系列模型即将发布【AI 早报 2026-02-09】](https://github.com/imjuya/gitblog/issues/4)--2026-02-09
 - [test2](https://github.com/imjuya/gitblog/issues/3)--2025-08-01
 - [test](https://github.com/imjuya/gitblog/issues/2)--2025-07-27
